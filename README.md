@@ -1,7 +1,8 @@
 # Dbatu-CGPA-Calculator-
 Welcome to the CGPA Calculator!  This C programming tool helps Dr. Babasaheb Ambedkar Technological University (DBATU) students convert their grade letters to a CGPA. Simply enter your subject name, subject credit, and subject letter grade, and our calculator will use the official DBATU conversion formula to generate your CGPA.
 
-###Instructions 
+#Instructions
+
 Step 1: Enter student name
 Step 2: Choose an option
 Choose an option from the menu:
@@ -36,7 +37,7 @@ CGPA : [CGPA Value]
 Step 7: Exit (Option 5)
 If you choose Option 5, the program will exit.
 
-##features
+#features
 
 1. CGPA Calculation: The tool provides a simple way to calculate CGPA based on subject grades and credits, which can be useful for students.
 
@@ -49,4 +50,4 @@ If you choose Option 5, the program will exit.
 5. Menu-Driven Interface: The tool provides a user-friendly menu-driven interface, making it easy for users to interact with the program.
 
 6. Error Handling: The tool  includes basic error handling, which can help users identify and correct invalid inputs.
-7. 
+
