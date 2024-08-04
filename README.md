@@ -4,6 +4,7 @@ Welcome to the CGPA Calculator!  This C programming tool helps Dr. Babasaheb Amb
 # Instructions
 
 Step 1: Enter student name
+
 Step 2: Choose an option
 Choose an option from the menu:
 1. Add Subject
